@@ -3,7 +3,7 @@ name = "example-python-cli"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "trentzz",email = "z.trent.w@gmail.com"}
+    {name = "example",email = "example@example.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.10"
