@@ -1,11 +1,37 @@
 # python-cli-template
 
-# quickstart
+## Quickstart
 
+### Making it your own
 
-# development process
+### Installing and running
 
+### Publishing
 
-# explanation
+## Development process
 
-# contribute
+### Adding cli options
+
+#### Basic options
+
+#### Sub-parsers
+
+#### Useful argparse options
+
+### Connecting classes to cli options
+
+#### Basic
+
+#### Subparsers
+
+### Testing and dependency injection
+
+### Mypy and static analysis
+
+## Explanation and extras
+
+### Pyproject.toml
+
+### Adding static and reference files
+
+## Contribute
