@@ -54,15 +54,9 @@ And that's it!
 
 #### Basic options
 
-#### Sub-parsers
-
 #### Useful argparse options
 
 ### Connecting classes to cli options
-
-#### Basic
-
-#### Subparsers
 
 ### Testing and dependency injection
 
@@ -75,6 +69,12 @@ And that's it!
 #### Pyproject.toml
 
 ##### Cli command name
+
+### Subcommands
+
+#### Adding subcommand options with Argparse
+
+#### Connecting subcommands to classes
 
 ### Adding static and reference files
 

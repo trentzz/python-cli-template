@@ -20,5 +20,4 @@ requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-basic = "example_python_cli.cli:cli"
-subcommands = "example_python_cli.cli_with_subcommands:cli"
+example = "example_python_cli.cli:cli"
